@@ -1,0 +1,962 @@
+[
+    {
+        "title": "Brand",
+        "question": "Please select or add the brand related to this request",
+        "placeholder": "",
+        "type": "select_brand",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Task Overview",
+        "question": "Please provide us with a short description of your request.",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Goals & Objectives",
+        "question": "What is the purpose of this website? What do you want your website visitors to do? ",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Website Category",
+        "question": "How would you categorize this website?",
+        "type": "select",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [
+            {
+                "label": "Ecommerce",
+                "value": "ecommerce",
+                "color": "amber-10"
+            },
+            {
+                "label": "SaaS",
+                "value": "saas",
+                "color": "indigo-6"
+            },
+            {
+                "label": "Agency",
+                "value": "agency",
+                "color": "primary"
+            },
+            {
+                "label": "Local Service Business",
+                "value": "local_service_business",
+                "color": "secondary"
+            },
+            {
+                "label": "Productized Service",
+                "value": "productized_service",
+                "color": "positive"
+            },
+            {
+                "label": "Coach/Consultant",
+                "value": "coach_consultant",
+                "color": "dark"
+            },
+            {
+                "label": "Blog/Magazine",
+                "value": "blog_magazine",
+                "color": "warning"
+            },
+            {
+                "label": "Directory",
+                "value": "directory",
+                "color": "yellow-11"
+            },
+            {
+                "label": "Marketplace",
+                "value": "marketplace",
+                "color": "orange"
+            },
+            {
+                "label": "Job Board",
+                "value": "job_board",
+                "color": "light-blue"
+            }
+        ],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Platform",
+        "question": "Please select your preferred platform.",
+        "type": "select_platform",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Video Walkthrough",
+        "question": "Please provide us with a screen-recording video explaining visually what you have in mind and what you expect from us.",
+        "type": "textfield",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Approved Design",
+        "question": "Approved Design",
+        "type": "textarea1",
+        "placeholder": "If this is a redesign, please provide us with a link to the earlier version.",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Website Content",
+        "question": "Website Content",
+        "type": "textarea1",
+        "placeholder": "Please provide us with the updated contents for this page.",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Warning",
+        "question": "Is there anything you want us to be aware of before we start working on this request, or something that you don't want us to do?",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Priority",
+        "question": "How important is this request compared to the other requests in the queue?",
+        "type": "radio",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [
+            {
+                "label": "Low",
+                "value": "low",
+                "color": "positive"
+            },
+            {
+                "label": "Medium",
+                "value": "medium",
+                "color": "warning"
+            },
+            {
+                "label": "High",
+                "value": "high",
+                "color": "amber-10"
+            },
+            {
+                "label": "Critical",
+                "value": "critical",
+                "color": "negative"
+            }
+        ],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Login Details",
+        "question": "Login Details",
+        "type": "radio",
+        "placeholder": "Please provide the login details of the website you'd like us to work on to.",
+        "required": false,
+        "format": "",
+        "options": [
+            {
+                "label": "Create from Scratch",
+                "value": "Blank",
+                "color": "dark"
+            },
+            {
+                "label": "Create a Staging",
+                "value": "Staging",
+                "color": "primary"
+            }
+        ],
+        "alternative_if": "Blank",
+        "alternative_question": "Please provide the login of the website you'd like us to work on to.",
+        "alternative_placeholder": "Input login details...",
+        "alternative_type": "textarea1",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "External Links",
+        "question": "External Links",
+        "type": "textarea1",
+        "placeholder": "Are there any external links we should include on the subpages?",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Additional Notes",
+        "question": "Is there anything else we should know?",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Login Details",
+        "question": "Login Details",
+        "type": "radio",
+        "placeholder": "Please provide the login details of the website you'd like us to work on to.",
+        "required": false,
+        "format": "",
+        "options": [
+            {
+                "label": "More than HTML",
+                "value": "Blank",
+                "color": "dark"
+            },
+            {
+                "label": "HTML Only",
+                "value": "HTML_only",
+                "color": "primary"
+            }
+        ],
+        "alternative_if": "Blank",
+        "alternative_question": "Please provide the login of the website you'd like us to work on to.",
+        "alternative_placeholder": "Input login details...",
+        "alternative_type": "textarea1",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Frequency Updates",
+        "question": "Frequency Updates",
+        "type": "select",
+        "placeholder": "How important is this request compared to the other requests in the queue?",
+        "required": true,
+        "format": "",
+        "options": [
+            {
+                "label": "One-time",
+                "value": "one_time",
+                "color": "primary"
+            },
+            {
+                "label": "Weekly",
+                "value": "weekly",
+                "color": "secondary"
+            },
+            {
+                "label": "Monthly",
+                "value": "monthly",
+                "color": "info"
+            }
+        ],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Login Details",
+        "question": "Login Details",
+        "type": "textarea1",
+        "placeholder": "Please provide the login details of the website you'd like us to work on to.",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Wireframe",
+        "question": "Outline/Flowchart/Wireframe of the process",
+        "type": "textarea1",
+        "placeholder": "- Step 1 \n- Step 2 \n- Step 3",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Optimization Plugins",
+        "question": "Optimization Plugins",
+        "type": "select",
+        "placeholder": "Do you use any optimization plugins on your website?",
+        "required": false,
+        "format": "",
+        "options": [
+            {
+                "label": "NitroPack",
+                "value": "nitropack",
+                "color": "deep-purple-12"
+            },
+            {
+                "label": "WP Rocket",
+                "value": "wp_rocket",
+                "color": "orange-13"
+            },
+            {
+                "label": "WPMU DEV",
+                "value": "wpmu_dev",
+                "color": "indigo-10"
+            },
+            {
+                "label": "NGINX",
+                "value": "nginx",
+                "color": "green-8"
+            },
+            {
+                "label": "SiteGround Optimizer",
+                "value": "siteground_optimizer",
+                "color": "deep-orange-10"
+            },
+            {
+                "label": "Others",
+                "value": "others",
+                "color": "dark"
+            }
+        ],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Tracking/Tag Code",
+        "question": "Tracking/Tag Code",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Resources",
+        "question": "Resources",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Call-To-Actions",
+        "question": "Call-To-Actions",
+        "placeholder": "What is this website's primary and secondary call to action?",
+        "type": "textarea1",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Existing Graphics",
+        "question": "If you have any existing graphic files you want us to use, please upload them or share a link.",
+        "placeholder": "",
+        "type": "radio",
+        "required": false,
+        "format": "",
+        "options": [
+            {
+                "label": "No Existing Design",
+                "value": "Blank",
+                "color": "dark"
+            },
+            {
+                "label": "Has Existing Design",
+                "value": "existing",
+                "color": "primary"
+            }
+        ],
+        "alternative_if": "existing",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "upload_single",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Design Inspiration",
+        "question": "Please share some design inspiration you want us to lean on. E.g., links to your mood board or other websites.",
+        "placeholder": "Please share some design inspiration you want us to lean on.",
+        "type": "textarea1",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Previous Design",
+        "question": "If this is a redesign, please provide us with a link to the earlier version.",
+        "placeholder": "",
+        "type": "radio",
+        "required": false,
+        "format": "",
+        "options": [
+            {
+                "label": "New Design",
+                "value": "Blank",
+                "color": "dark"
+            },
+            {
+                "label": "Redesign",
+                "value": "redesign",
+                "color": "primary"
+            }
+        ],
+        "alternative_if": "redesign",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "textfield, upload_single",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Wireframe",
+        "question": "Wireframe",
+        "type": "textarea1",
+        "placeholder": "Please provide us with a low-fidelity wireframe to outline the content section on this page.",
+        "required": false,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Style Direction",
+        "question": "Style Direction",
+        "type": "checkbox",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [
+            {
+                "label": "Modern",
+                "description": "Modern designs often feature clean lines and are pretty lean",
+                "value": "Modern",
+                "color": "info"
+            },
+            {
+                "label": "Classic",
+                "description": "If you want something more retro, think classic design",
+                "value": "Classic",
+                "color": "secondary"
+            },
+            {
+                "label": "Minimal",
+                "description": "Often seen with legal firms, these logos contain the bare minimum of design and rely on their name",
+                "value": "Minimal",
+                "color": "positive"
+            },
+            {
+                "label": "Complex",
+                "description": "Creative companies or event companies can express their art with a complex design",
+                "value": "Complex",
+                "color": "warning"
+            },
+            {
+                "label": "Serious",
+                "description": "Funeral homes want to portray a calm and serious business to mourning clients",
+                "value": "Serious",
+                "color": "dark"
+            },
+            {
+                "label": "Playful",
+                "description": "Businesses aimed at children will want to choose a fun, carefree concept",
+                "value": "Playful",
+                "color": "accent"
+            },
+            {
+                "label": "Loud",
+                "description": "Get in peoples' faces and grab their attention with a lively logo",
+                "value": "Loud",
+                "color": "primary"
+            }
+        ],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Dimensions and File Size Export Requirements:",
+        "question": "Dimensions and File Size Export Requirements:",
+        "type": "textarea1",
+        "placeholder": "Please provide us specific dimensions, ratio, and file sizes required for this task.",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Content",
+        "question": "Content",
+        "type": "textarea1,upload_single",
+        "placeholder": "Please provide us with a first draft of the content.",
+        "required": false,
+        "format": "application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/msword,application/vnd.google-apps.document,text/plain",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Task Description",
+        "question": "Please describe your request.",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Objective",
+        "question": "What is the purpose of this request? What do you want to achieve?",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Project Summary",
+        "question": "Please describe your project in one or two sentences.",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Project Outline",
+        "question": " Please give us an overview of everything that needs to be done. Ideally, you use milestones to break up the project into multiple phases.",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Objective",
+        "question": "What is the purpose of this [project type e.g. “website”, “funnel”, “portal”]? What do you want to achieve?",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Sitemap & Information Architecture",
+        "question": "Please provide us with a link to your sitemap showcasing all pages and content sections for each page.",
+        "type": "textfield",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": true,
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "checkbox",
+        "alternative_format": "",
+        "alternative_options": [
+            {
+                "label": "Please create this for me",
+                "value": "create",
+                "color": "primary"
+            }
+        ],
+        "show_in_overview": false
+    },
+    {
+        "title": "Platform",
+        "question": "Please select your preferred platform.",
+        "type": "select_platform2",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Current Website",
+        "question": "Please share a link to the existing website.",
+        "type": "radio",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [
+            {
+                "label": "No Current Webstite",
+                "value": "blank",
+                "color": "white"
+            },
+            {
+                "label": "Has Current Website",
+                "value": "has_website",
+                "color": "dark"
+            }
+        ],
+        "alternative_if": "has_website",
+        "alternative_question": "",
+        "alternative_placeholder": "Enter Website URL",
+        "alternative_type": "textfield",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Platform Access",
+        "question": "Please provide us with the login details to your accounts.",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": true,
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "checkbox",
+        "alternative_format": "",
+        "alternative_options": [
+            {
+                "label": "I created a guest account for pm@growmodo.com",
+                "value": "created_account",
+                "color": "white"
+            }
+        ],
+        "show_in_overview": false
+    },
+    {
+        "title": "Final UI Design",
+        "question": "Please provide the final design concept as a Figma or Adobe XD file.",
+        "type": "upload_single",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": true,
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "checkbox",
+        "alternative_format": "",
+        "alternative_options": [
+            {
+                "label": "The design was created by Growmodo",
+                "value": "created_by_growmodo",
+                "color": "white"
+            }
+        ],
+        "show_in_overview": false
+    },
+    {
+        "title": "Login Credentials",
+        "question": "Please provide us with the login credentials to access your platform or invite us as a user using this email address.",
+        "type": "login_credentials",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": true,
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Final Mockup",
+        "question": "Please provide the final design concept as a Figma or Adobe XD file.",
+        "type": "upload_single",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": true,
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "checkbox",
+        "alternative_format": "",
+        "alternative_options": [
+            {
+                "label": "The design was created by Growmodo",
+                "value": "created_by_growmodo",
+                "color": "white"
+            }
+        ],
+        "show_in_overview": false
+    },
+    {
+        "title": "New Website Content",
+        "question": "Please provide us with a first draft of the website content",
+        "type": "textarea1",
+        "placeholder": "Please provide us with the updated contents for this page.",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Image or Assets",
+        "question": "",
+        "type": "upload_multiple",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Third-Party Plugin",
+        "question": "Do you prefer to use a third-party plugin on your website?",
+        "type": "textarea1",
+        "placeholder": "For example, on a contact form plugin such as GravityForms or WPForms. What email address will we include as a form recipient? Email Automation plugin using Mailchimp, OptinMonster, and etc.",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Issue Description",
+        "question": "",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    },
+    {
+        "title": "Third-Party Tools",
+        "question": "Third-Party Tools to be integrated with",
+        "type": "textarea1",
+        "placeholder": "",
+        "required": true,
+        "format": "",
+        "options": [],
+        "alternative_if": "",
+        "alternative_question": "",
+        "alternative_placeholder": "",
+        "alternative_type": "",
+        "alternative_format": "",
+        "alternative_options": [],
+        "show_in_overview": false
+    }
+]

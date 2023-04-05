@@ -1,0 +1,21 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"],
+    "editor.maxTokenizationLineLength": 5000,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "prettier.tabWidth": 2,
+    "prettier.semi": true,
+    "prettier.printWidth": 150,
+    "prettier.singleQuote": true,
+    "prettier.bracketSameLine": true,
+    "workbench.startupEditor": "none",
+    "editor.unusualLineTerminators": "auto",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
+}

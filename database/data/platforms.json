@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "227",
+        "title": "Zapier",
+        "description": "Zapier",
+        "status": "active",
+        "image_url": null,
+        "slug": "zapier",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FZapier.svg"
+    },
+    {
+        "id": "226",
+        "title": "Yotpo",
+        "description": "Yotpo",
+        "status": "active",
+        "image_url": null,
+        "slug": "yotpo",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FYotpo.svg"
+    },
+    {
+        "id": "225",
+        "title": "Wordpress",
+        "description": "Wordpress",
+        "status": "active",
+        "image_url": null,
+        "slug": "wordpress",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FWordpress.svg"
+    },
+    {
+        "id": "224",
+        "title": "Webflow",
+        "description": "Webflow",
+        "status": "active",
+        "image_url": null,
+        "slug": "webflow",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FWebflow.svg"
+    },
+    {
+        "id": "223",
+        "title": "VueJS",
+        "description": "VueJS",
+        "status": "active",
+        "image_url": null,
+        "slug": "vuejs",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FVueJS.svg"
+    },
+    {
+        "id": "222",
+        "title": "Viral Loops",
+        "description": "Viral Loops",
+        "status": "active",
+        "image_url": null,
+        "slug": "viral-loops",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FViral%20Loops.svg"
+    },
+    {
+        "id": "221",
+        "title": "Videopeel",
+        "description": "Videopeel",
+        "status": "active",
+        "image_url": null,
+        "slug": "videopeel",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FVideopeel.svg"
+    },
+    {
+        "id": "220",
+        "title": "Vanga.ai",
+        "description": "Vanga.ai",
+        "status": "active",
+        "image_url": null,
+        "slug": "vanga.ai",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FVanga.ai.svg"
+    },
+    {
+        "id": "219",
+        "title": "Usercentrics",
+        "description": "Usercentrics",
+        "status": "active",
+        "image_url": null,
+        "slug": "usercentrics",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FUsercentrics.svg"
+    },
+    {
+        "id": "218",
+        "title": "Useproof",
+        "description": "Useproof",
+        "status": "active",
+        "image_url": null,
+        "slug": "useproof",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FUseproof.svg"
+    },
+    {
+        "id": "217",
+        "title": "Unbounce",
+        "description": "Unbounce",
+        "status": "active",
+        "image_url": null,
+        "slug": "unbounce",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FUnbounce.svg"
+    },
+    {
+        "id": "216",
+        "title": "UI Bakery",
+        "description": "UI Bakery",
+        "status": "active",
+        "image_url": null,
+        "slug": "ui-bakery",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FUI%20Bakery.svg"
+    },
+    {
+        "id": "215",
+        "title": "Typeform",
+        "description": "Typeform",
+        "status": "active",
+        "image_url": null,
+        "slug": "typeform",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTypeform.svg"
+    },
+    {
+        "id": "214",
+        "title": "Typeform-1",
+        "description": "Typeform-1",
+        "status": "active",
+        "image_url": null,
+        "slug": "typeform-1",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTypeform-1.svg"
+    },
+    {
+        "id": "213",
+        "title": "TryBeans",
+        "description": "TryBeans",
+        "status": "active",
+        "image_url": null,
+        "slug": "trybeans",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTryBeans.svg"
+    },
+    {
+        "id": "212",
+        "title": "Testimonial.to",
+        "description": "Testimonial.to",
+        "status": "active",
+        "image_url": null,
+        "slug": "testimonial.to",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTestimonial.to.svg"
+    },
+    {
+        "id": "211",
+        "title": "Teachable",
+        "description": "Teachable",
+        "status": "active",
+        "image_url": null,
+        "slug": "teachable",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTeachable.svg"
+    },
+    {
+        "id": "210",
+        "title": "Tangram",
+        "description": "Tangram",
+        "status": "active",
+        "image_url": null,
+        "slug": "tangram",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTangram.svg"
+    },
+    {
+        "id": "209",
+        "title": "TailwindCSS",
+        "description": "TailwindCSS",
+        "status": "active",
+        "image_url": null,
+        "slug": "tailwindcss",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FTailwindCSS.svg"
+    },
+    {
+        "id": "208",
+        "title": "Systeme",
+        "description": "Systeme",
+        "status": "active",
+        "image_url": null,
+        "slug": "systeme",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSysteme.svg"
+    },
+    {
+        "id": "207",
+        "title": "Swipe Pages",
+        "description": "Swipe Pages",
+        "status": "active",
+        "image_url": null,
+        "slug": "swipe-pages",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSwipe%20Pages.svg"
+    },
+    {
+        "id": "206",
+        "title": "Sumo",
+        "description": "Sumo",
+        "status": "active",
+        "image_url": null,
+        "slug": "sumo",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSumo.svg"
+    },
+    {
+        "id": "205",
+        "title": "Stripe",
+        "description": "Stripe",
+        "status": "active",
+        "image_url": null,
+        "slug": "stripe",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FStripe.svg"
+    },
+    {
+        "id": "204",
+        "title": "StackerHQ",
+        "description": "StackerHQ",
+        "status": "active",
+        "image_url": null,
+        "slug": "stackerhq",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FStackerHQ.svg"
+    },
+    {
+        "id": "203",
+        "title": "SpreadSimple",
+        "description": "SpreadSimple",
+        "status": "active",
+        "image_url": null,
+        "slug": "spreadsimple",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSpreadSimple.svg"
+    },
+    {
+        "id": "202",
+        "title": "Softr",
+        "description": "Softr",
+        "status": "active",
+        "image_url": null,
+        "slug": "softr",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSoftr.svg"
+    },
+    {
+        "id": "201",
+        "title": "Smile.io",
+        "description": "Smile.io",
+        "status": "active",
+        "image_url": null,
+        "slug": "smile.io",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSmile.io.svg"
+    },
+    {
+        "id": "200",
+        "title": "Smartlook",
+        "description": "Smartlook",
+        "status": "active",
+        "image_url": null,
+        "slug": "smartlook",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSmartlook.svg"
+    },
+    {
+        "id": "199",
+        "title": "Sleeknote",
+        "description": "Sleeknote",
+        "status": "active",
+        "image_url": null,
+        "slug": "sleeknote",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSleeknote.svg"
+    },
+    {
+        "id": "198",
+        "title": "Skool",
+        "description": "Skool",
+        "status": "active",
+        "image_url": null,
+        "slug": "skool",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSkool.svg"
+    },
+    {
+        "id": "197",
+        "title": "Shoutout.so",
+        "description": "Shoutout.so",
+        "status": "active",
+        "image_url": null,
+        "slug": "shoutout.so",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FShoutout.so.svg"
+    },
+    {
+        "id": "196",
+        "title": "Shopify",
+        "description": "Shopify",
+        "status": "active",
+        "image_url": null,
+        "slug": "shopify",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FShopify.svg"
+    },
+    {
+        "id": "195",
+        "title": "Sharetribe",
+        "description": "Sharetribe",
+        "status": "active",
+        "image_url": null,
+        "slug": "sharetribe",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSharetribe.svg"
+    },
+    {
+        "id": "194",
+        "title": "Reply.io",
+        "description": "Reply.io",
+        "status": "active",
+        "image_url": null,
+        "slug": "reply.io",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FReply.io.svg"
+    },
+    {
+        "id": "193",
+        "title": "RemakeTheWeb",
+        "description": "RemakeTheWeb",
+        "status": "active",
+        "image_url": null,
+        "slug": "remaketheweb",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FRemakeTheWeb.svg"
+    },
+    {
+        "id": "192",
+        "title": "RechargePayments",
+        "description": "RechargePayments",
+        "status": "active",
+        "image_url": null,
+        "slug": "rechargepayments",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FRechargePayments.svg"
+    },
+    {
+        "id": "191",
+        "title": "ReactJS",
+        "description": "ReactJS",
+        "status": "active",
+        "image_url": null,
+        "slug": "reactjs",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FReactJS.svg"
+    },
+    {
+        "id": "190",
+        "title": "Privy",
+        "description": "Privy",
+        "status": "active",
+        "image_url": null,
+        "slug": "privy",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPrivy.svg"
+    },
+    {
+        "id": "189",
+        "title": "Power Point",
+        "description": "Power Point",
+        "status": "active",
+        "image_url": null,
+        "slug": "power-point",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPower%20Point.svg"
+    },
+    {
+        "id": "188",
+        "title": "Podia",
+        "description": "Podia",
+        "status": "active",
+        "image_url": null,
+        "slug": "podia",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPodia.svg"
+    },
+    {
+        "id": "187",
+        "title": "Photoshop",
+        "description": "Photoshop",
+        "status": "active",
+        "image_url": null,
+        "slug": "photoshop",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPhotoshop.svg"
+    },
+    {
+        "id": "186",
+        "title": "Phantombuster",
+        "description": "Phantombuster",
+        "status": "active",
+        "image_url": null,
+        "slug": "phantombuster",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPhantombuster.svg"
+    },
+    {
+        "id": "185",
+        "title": "Perspective",
+        "description": "Perspective",
+        "status": "active",
+        "image_url": null,
+        "slug": "perspective",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPerspective.svg"
+    },
+    {
+        "id": "184",
+        "title": "Paypal",
+        "description": "Paypal",
+        "status": "active",
+        "image_url": null,
+        "slug": "paypal",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPaypal.svg"
+    },
+    {
+        "id": "183",
+        "title": "Parabola",
+        "description": "Parabola",
+        "status": "active",
+        "image_url": null,
+        "slug": "parabola",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FParabola.svg"
+    },
+    {
+        "id": "182",
+        "title": "Pagefly",
+        "description": "Pagefly",
+        "status": "active",
+        "image_url": null,
+        "slug": "pagefly",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FPagefly.svg"
+    },
+    {
+        "id": "181",
+        "title": "Outgrow",
+        "description": "Outgrow",
+        "status": "active",
+        "image_url": null,
+        "slug": "outgrow",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FOutgrow.svg"
+    },
+    {
+        "id": "180",
+        "title": "Optin Monster",
+        "description": "Optin Monster",
+        "status": "active",
+        "image_url": null,
+        "slug": "optin-monster",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FOptin%20Monster.svg"
+    },
+    {
+        "id": "179",
+        "title": "Octopus.do",
+        "description": "Octopus.do",
+        "status": "active",
+        "image_url": null,
+        "slug": "octopus.do",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FOctopus.do.svg"
+    },
+    {
+        "id": "178",
+        "title": "Mouseflow",
+        "description": "Mouseflow",
+        "status": "active",
+        "image_url": null,
+        "slug": "mouseflow",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMouseflow.svg"
+    },
+    {
+        "id": "177",
+        "title": "Mighty Networks",
+        "description": "Mighty Networks",
+        "status": "active",
+        "image_url": null,
+        "slug": "mighty-networks",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMighty%20Networks.svg"
+    },
+    {
+        "id": "176",
+        "title": "Meta",
+        "description": "Meta",
+        "status": "active",
+        "image_url": null,
+        "slug": "meta",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMeta.svg"
+    },
+    {
+        "id": "175",
+        "title": "Memberstack",
+        "description": "Memberstack",
+        "status": "active",
+        "image_url": null,
+        "slug": "memberstack",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMemberstack.svg"
+    },
+    {
+        "id": "174",
+        "title": "Memberstack-1",
+        "description": "Memberstack-1",
+        "status": "active",
+        "image_url": null,
+        "slug": "memberstack-1",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMemberstack.svg"
+    },
+    {
+        "id": "173",
+        "title": "Memberspace",
+        "description": "Memberspace",
+        "status": "active",
+        "image_url": null,
+        "slug": "memberspace",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMemberspace.svg"
+    },
+    {
+        "id": "172",
+        "title": "Memberful",
+        "description": "Memberful",
+        "status": "active",
+        "image_url": null,
+        "slug": "memberful",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMemberful.svg"
+    },
+    {
+        "id": "171",
+        "title": "Manychat",
+        "description": "Manychat",
+        "status": "active",
+        "image_url": null,
+        "slug": "manychat",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FManychat.svg"
+    },
+    {
+        "id": "170",
+        "title": "Make",
+        "description": "Make",
+        "status": "active",
+        "image_url": null,
+        "slug": "make",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMake.svg"
+    },
+    {
+        "id": "169",
+        "title": "Mailshake",
+        "description": "Mailshake",
+        "status": "active",
+        "image_url": null,
+        "slug": "mailshake",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMailshake.svg"
+    },
+    {
+        "id": "168",
+        "title": "Mailchimp",
+        "description": "Mailchimp",
+        "status": "active",
+        "image_url": null,
+        "slug": "mailchimp",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMailchimp.svg"
+    },
+    {
+        "id": "167",
+        "title": "Loom",
+        "description": "Loom",
+        "status": "active",
+        "image_url": null,
+        "slug": "loom",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLoom.svg"
+    },
+    {
+        "id": "166",
+        "title": "Livestorm",
+        "description": "Livestorm",
+        "status": "active",
+        "image_url": null,
+        "slug": "livestorm",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLivestorm.svg"
+    },
+    {
+        "id": "165",
+        "title": "Lemlist",
+        "description": "Lemlist",
+        "status": "active",
+        "image_url": null,
+        "slug": "lemlist",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLemlist.svg"
+    },
+    {
+        "id": "164",
+        "title": "Leadfeeder",
+        "description": "Leadfeeder",
+        "status": "active",
+        "image_url": null,
+        "slug": "leadfeeder",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLeadfeeder.svg"
+    },
+    {
+        "id": "163",
+        "title": "Laravel",
+        "description": "Laravel",
+        "status": "active",
+        "image_url": null,
+        "slug": "laravel",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLaravel.svg"
+    },
+    {
+        "id": "162",
+        "title": "Landbot",
+        "description": "Landbot",
+        "status": "active",
+        "image_url": null,
+        "slug": "landbot",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FLandbot.io.svg"
+    },
+    {
+        "id": "161",
+        "title": "Klaviyo",
+        "description": "Klaviyo",
+        "status": "active",
+        "image_url": null,
+        "slug": "klaviyo",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FKlaviyo.svg"
+    },
+    {
+        "id": "160",
+        "title": "Keap",
+        "description": "Keap",
+        "status": "active",
+        "image_url": null,
+        "slug": "keap",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FKeap.svg"
+    },
+    {
+        "id": "159",
+        "title": "Kartra",
+        "description": "Kartra",
+        "status": "active",
+        "image_url": null,
+        "slug": "kartra",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FKartra.svg"
+    },
+    {
+        "id": "158",
+        "title": "Kajabi",
+        "description": "Kajabi",
+        "status": "active",
+        "image_url": null,
+        "slug": "kajabi",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FKajabi.svg"
+    },
+    {
+        "id": "157",
+        "title": "Justuno",
+        "description": "Justuno",
+        "status": "active",
+        "image_url": null,
+        "slug": "justuno",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FJustuno.svg"
+    },
+    {
+        "id": "156",
+        "title": "Jotform",
+        "description": "Jotform",
+        "status": "active",
+        "image_url": null,
+        "slug": "jotform",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FJotform.svg"
+    },
+    {
+        "id": "155",
+        "title": "Iubenda",
+        "description": "Iubenda",
+        "status": "active",
+        "image_url": null,
+        "slug": "iubenda",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FIubenda.svg"
+    },
+    {
+        "id": "154",
+        "title": "Involve.me",
+        "description": "Involve.me",
+        "status": "active",
+        "image_url": null,
+        "slug": "involve.me",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FInvolve.me.svg"
+    },
+    {
+        "id": "153",
+        "title": "Intercom",
+        "description": "Intercom",
+        "status": "active",
+        "image_url": null,
+        "slug": "intercom",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FIntercom.svg"
+    },
+    {
+        "id": "152",
+        "title": "Instapage",
+        "description": "Instapage",
+        "status": "active",
+        "image_url": null,
+        "slug": "instapage",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FInstapage.svg"
+    },
+    {
+        "id": "151",
+        "title": "InDesign",
+        "description": "InDesign",
+        "status": "active",
+        "image_url": null,
+        "slug": "indesign",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FID.svg"
+    },
+    {
+        "id": "150",
+        "title": "Illustrator",
+        "description": "Illustrator",
+        "status": "active",
+        "image_url": null,
+        "slug": "illustrator",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAI.svg"
+    },
+    {
+        "id": "149",
+        "title": "If-so",
+        "description": "If-so",
+        "status": "active",
+        "image_url": null,
+        "slug": "if-so",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FIf-so.svg"
+    },
+    {
+        "id": "148",
+        "title": "Hypertune.ai",
+        "description": "Hypertune.ai",
+        "status": "active",
+        "image_url": null,
+        "slug": "hypertune.ai",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FHypertune.ai.svg"
+    },
+    {
+        "id": "147",
+        "title": "Hyperise",
+        "description": "Hyperise",
+        "status": "active",
+        "image_url": null,
+        "slug": "hyperise",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FHyperise.svg"
+    },
+    {
+        "id": "146",
+        "title": "Hubspot",
+        "description": "Hubspot",
+        "status": "active",
+        "image_url": null,
+        "slug": "hubspot",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FHubspot.svg"
+    },
+    {
+        "id": "145",
+        "title": "HTML",
+        "description": "HTML",
+        "status": "active",
+        "image_url": null,
+        "slug": "html",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FHTML.svg"
+    },
+    {
+        "id": "144",
+        "title": "Hotjar",
+        "description": "Hotjar",
+        "status": "active",
+        "image_url": null,
+        "slug": "hotjar",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FHotjar.svg"
+    },
+    {
+        "id": "143",
+        "title": "Google Tag Manager",
+        "description": "Google Tag Manager",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-tag-manager",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGoogleTagManager.svg"
+    },
+    {
+        "id": "142",
+        "title": "Google Slides",
+        "description": "Google Slides",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-slides",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FSlides.svg"
+    },
+    {
+        "id": "141",
+        "title": "Google Search Console",
+        "description": "Google Search Console",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-search-console",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGoogleSearchConsole.svg"
+    },
+    {
+        "id": "140",
+        "title": "Google Optimize",
+        "description": "Google Optimize",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-optimize",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGoogleOptimize.svg"
+    },
+    {
+        "id": "139",
+        "title": "Google Docs",
+        "description": "Google Docs",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-docs",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGoogle%20Docs.svg"
+    },
+    {
+        "id": "138",
+        "title": "Google Analytics",
+        "description": "Google Analytics",
+        "status": "active",
+        "image_url": null,
+        "slug": "google-analytics",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGoogleAnalytics.svg"
+    },
+    {
+        "id": "137",
+        "title": "Glide",
+        "description": "Glide",
+        "status": "active",
+        "image_url": null,
+        "slug": "glide",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FGlide.svg"
+    },
+    {
+        "id": "136",
+        "title": "Fomo.com",
+        "description": "Fomo.com",
+        "status": "active",
+        "image_url": null,
+        "slug": "fomo.com",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FFOMO.svg"
+    },
+    {
+        "id": "135",
+        "title": "Figma",
+        "description": "Figma",
+        "status": "active",
+        "image_url": null,
+        "slug": "figma",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FFigma.svg"
+    },
+    {
+        "id": "134",
+        "title": "Elementor",
+        "description": "Elementor",
+        "status": "active",
+        "image_url": null,
+        "slug": "elementor",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FElementor.svg"
+    },
+    {
+        "id": "133",
+        "title": "Crisp",
+        "description": "Crisp",
+        "status": "active",
+        "image_url": null,
+        "slug": "crisp",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCrisp.svg"
+    },
+    {
+        "id": "132",
+        "title": "Convertflow",
+        "description": "Convertflow",
+        "status": "active",
+        "image_url": null,
+        "slug": "convertflow",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FConvertflow.svg"
+    },
+    {
+        "id": "131",
+        "title": "Clickfunnels",
+        "description": "Clickfunnels",
+        "status": "active",
+        "image_url": null,
+        "slug": "clickfunnels",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FClickfunnels.svg"
+    },
+    {
+        "id": "130",
+        "title": "Clearbit",
+        "description": "Clearbit",
+        "status": "active",
+        "image_url": null,
+        "slug": "clearbit",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FClearbit.svg"
+    },
+    {
+        "id": "129",
+        "title": "Clay.run",
+        "description": "Clay.run",
+        "status": "active",
+        "image_url": null,
+        "slug": "clay.run",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FClay.svg"
+    },
+    {
+        "id": "128",
+        "title": "Circle.so",
+        "description": "Circle.so",
+        "status": "active",
+        "image_url": null,
+        "slug": "circle.so",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCircle.so.svg"
+    },
+    {
+        "id": "127",
+        "title": "Chatfuel",
+        "description": "Chatfuel",
+        "status": "active",
+        "image_url": null,
+        "slug": "chatfuel",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FChatFuel.svg"
+    },
+    {
+        "id": "126",
+        "title": "CartPops",
+        "description": "CartPops",
+        "status": "active",
+        "image_url": null,
+        "slug": "cartpops",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCartpops.svg"
+    },
+    {
+        "id": "125",
+        "title": "Canva",
+        "description": "Canva",
+        "status": "active",
+        "image_url": null,
+        "slug": "canva",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCanva.svg"
+    },
+    {
+        "id": "124",
+        "title": "Calendly",
+        "description": "Calendly",
+        "status": "active",
+        "image_url": null,
+        "slug": "calendly",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCalendly.svg"
+    },
+    {
+        "id": "123",
+        "title": "Calconic",
+        "description": "Calconic",
+        "status": "active",
+        "image_url": null,
+        "slug": "calconic",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FCalconic.svg"
+    },
+    {
+        "id": "122",
+        "title": "Budibase",
+        "description": "Budibase",
+        "status": "active",
+        "image_url": null,
+        "slug": "budibase",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBudibase.svg"
+    },
+    {
+        "id": "121",
+        "title": "Buddy Boss",
+        "description": "Buddy Boss",
+        "status": "active",
+        "image_url": null,
+        "slug": "buddy-boss",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBuddyBoss.svg"
+    },
+    {
+        "id": "120",
+        "title": "Bucket.io",
+        "description": "Bucket.io",
+        "status": "active",
+        "image_url": null,
+        "slug": "bucket.io",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBucket.io.svg"
+    },
+    {
+        "id": "119",
+        "title": "Buble.io",
+        "description": "Buble.io",
+        "status": "active",
+        "image_url": null,
+        "slug": "buble.io",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBuble.io.svg"
+    },
+    {
+        "id": "118",
+        "title": "Bravo",
+        "description": "Bravo",
+        "status": "active",
+        "image_url": null,
+        "slug": "bravo",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBravo.svg"
+    },
+    {
+        "id": "117",
+        "title": "Bannerbear",
+        "description": "Bannerbear",
+        "status": "active",
+        "image_url": null,
+        "slug": "bannerbear",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FBannerbear.svg"
+    },
+    {
+        "id": "116",
+        "title": "Albacross",
+        "description": "Albacross",
+        "status": "active",
+        "image_url": null,
+        "slug": "albacross",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAlbacross.svg"
+    },
+    {
+        "id": "115",
+        "title": "After Effects",
+        "description": "After Effects",
+        "status": "active",
+        "image_url": null,
+        "slug": "after-effects",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAE.svg"
+    },
+    {
+        "id": "114",
+        "title": "Adobe XD",
+        "description": "Adobe XD",
+        "status": "active",
+        "image_url": null,
+        "slug": "adobe-xd",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FXD.svg"
+    },
+    {
+        "id": "113",
+        "title": "Adalo",
+        "description": "Adalo",
+        "status": "active",
+        "image_url": null,
+        "slug": "adalo",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAdalo.svg"
+    },
+    {
+        "id": "112",
+        "title": "Active Campaign",
+        "description": "Active Campaign",
+        "status": "active",
+        "image_url": null,
+        "slug": "active-campaign",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FActiveCampaign.svg"
+    },
+    {
+        "id": "111",
+        "title": "Abyssale",
+        "description": "Abyssale",
+        "status": "active",
+        "image_url": null,
+        "slug": "abyssale",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAbyssale.svg"
+    },
+    {
+        "id": "110",
+        "title": "AB Testing.ai",
+        "description": "AB Testing.ai",
+        "status": "active",
+        "image_url": null,
+        "slug": "ab-testing.ai",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FAB%20Testing.ai.svg"
+    },
+    {
+        "id": "109",
+        "title": "Zoom",
+        "description": "Zoom",
+        "status": "active",
+        "image_url": null,
+        "slug": "zoom",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FZoom.svg"
+    },
+    {
+        "id": "175",
+        "title": "Memberpress",
+        "description": "Memberpress",
+        "status": "active",
+        "image_url": null,
+        "slug": "memberpress",
+        "icon": "https://cdn.growmodo.com/public%2Ficons%2Fplatforms%2FMemberpress.svg"
+    }
+]

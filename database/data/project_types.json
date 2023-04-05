@@ -1,0 +1,130 @@
+[
+    {
+        "category": "Websites",
+        "title": "Business Website",
+        "type": "Template-Based",
+        "platforms": "Elementor, Webflow, WordPress, Hubspot",
+        "description": "Build a new website based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Websites",
+        "title": "Business Website",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Webflow, WordPress, Shopify, Figma, Adobe XD",
+        "description": "Build a new website based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Websites",
+        "title": "E-commerce Website",
+        "type": "Template-Based",
+        "platforms": "Shopify, WordPress, Elementor, Hubspot",
+        "description": "Build a new e-commerce store based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Websites",
+        "title": "E-commerce Website",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Shopify, WordPress, PageFly, Figma, Adobe XD",
+        "description": "Create a custom design concept for a new e-commerce store and then develop it on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Funnels",
+        "title": "Sales Funnel",
+        "type": "Template-Based",
+        "platforms": "Clickfunnels, Unbounce, Swipe Pages, Kartra, Systeme, Webflow, Elementor",
+        "description": "Build a new sales funnel with multiple landing pages based on templates and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Funnels",
+        "title": "Sales Funnel",
+        "type": "Custom-Designed",
+        "platforms": "Clickfunnels, Unbounce, Swipe Pages, Kartra, Systeme, Webflow, Elementor, Figma, Adobe XD",
+        "description": "Create custom design concepts for my new sales funnel pages and develop them on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Marketplace",
+        "title": "Marketplace Site",
+        "type": "Template-Based",
+        "platforms": "Elementor, Sharetribe, Softr, Buble.io, Webflow, Tangram",
+        "description": "Build a multi-vendor marketplace based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Marketplace",
+        "title": "Marketplace Site",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Sharetribe, Buble.io, Webflow, Tangram, Figma, XD",
+        "description": "Create a custom design concept for my new multi-vendor marketplace and then develop it on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Portal",
+        "title": "Membership Portal",
+        "type": "Template-Based",
+        "platforms": "Elementor, Webflow, Sharetribe, Softr, Buble.io, Memberpress, Memberful, Memberstack",
+        "description": "Build a membership portal based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Portal",
+        "title": "Membership Portal",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Webflow, Sharetribe, Softr, Buble.io, Memberpress, Memberful, Memberstack, Figma, Adobe XD",
+        "description": "Create a custom design concept for my new membership portal and then develop it on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Portal",
+        "title": "Client Portal",
+        "type": "Template-Based",
+        "platforms": "UI Bakery, Wordpress, Laravel",
+        "description": "Build a client portal based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Portal",
+        "title": "Client Portal",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Softr, Memberpress, Memberful, Memberstack, Figma, Adobe XD",
+        "description": "Create a custom design concept for my new client portal and then develop it on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Directory Site",
+        "title": "Directory Site",
+        "type": "Template-Based",
+        "platforms": "Elementor, Webflow, Sharetribe, Softr, Tangram, SpreadSimple",
+        "description": "Build a directory site based on a template and customize it according to my brand guidelines.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "Directory Site",
+        "title": "Directory Site",
+        "type": "Custom-Designed",
+        "platforms": "Elementor, Webflow, Softr, Figma, Adobe XD",
+        "description": "Create a custom design concept for my new directory site and then develop it on my preferred platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "No-code Apps",
+        "title": "No-Code Web App",
+        "type": "coming soon",
+        "platforms": "Buble.io, RemakeTheWeb, Budibase, Softr, StackerHQ, Figma, Adobe XD",
+        "description": "Design and develop a web application using my preferred no-code platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    },
+    {
+        "category": "No-code Apps",
+        "title": "No-Code Mobile App",
+        "type": "coming soon",
+        "platforms": "Bravo, Adalo, Figma, Adobe XD",
+        "description": "Design and develop a mobile application using my preferred no-code platform.",
+        "questions": [1, 46, 47, 4, 48, 3, 5, 6, 7, 8, 9, 10, 12]
+    }
+]

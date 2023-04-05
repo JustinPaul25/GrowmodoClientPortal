@@ -1,0 +1,722 @@
+[
+    {
+        "label": "Sitemap & Information Architecture",
+        "turn_around_days": "1 Day",
+        "platforms": "Octopus.do",
+        "description": "Give me a 10,000-foot view of my website and map out the content sections for each page of my website or funnel to create a clear and intuitive user flow.",
+        "category": "UX Design",
+        "icon": "icon-dataflow-01",
+        "keywords": "",
+        "questions": [1, 2, 4, 8, 13, 14, 10, 11]
+    },
+    {
+        "label": "Website Wireframe",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Create a conversion-optimized wireframe for my landing page or website.",
+        "category": "UX Design",
+        "icon": "icon-image-indent-left",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12]
+    },
+    {
+        "label": "Homepage Design Concept",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Create a pixel-perfect design concept for my new homepage that impresses my customers.",
+        "category": "UI Design",
+        "icon": "icon-home-05",
+        "keywords": "",
+        "questions": [1, 2, 4, 14, 8, 6, 15, 16, 5, 17, 7, 10, 11]
+    },
+    {
+        "label": "Landing Page Design Concept",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Design a high-converting landing page concept for my product or service.",
+        "category": "UI Design",
+        "icon": "icon-flag-01",
+        "keywords": "",
+        "questions": [1, 2, 11, 3, 14, 8, 4, 6, 15, 16, 5, 17, 7, 10, 12]
+    },
+    {
+        "label": "Internal Web Page Design Concept",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Design my internal web pages based on your pre-defined design guidelines or homepage concept.",
+        "category": "UI Design",
+        "icon": "icon-clapperboard",
+        "keywords": "",
+        "questions": [1, 2, 11, 3, 14, 8, 4, 6, 15, 16, 5, 17, 7, 10, 12]
+    },
+    {
+        "label": "Mobile App Design Concept",
+        "turn_around_days": "1-4 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Create a user-centric design concept for my mobile app based on a wireframe.",
+        "category": "UI Design",
+        "icon": "icon-phone-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12]
+    },
+    {
+        "label": "Web App Design Concept",
+        "turn_around_days": "1-4 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Design a new user interface for my web app based on my current version or new wireframes.",
+        "category": "UI Design",
+        "icon": "icon-monitor-03",
+        "keywords": "",
+        "questions": [1, 2, 8, 3, 18, 4, 19, 15, 5, 17, 20, 12, 7, 14, 10]
+    },
+    {
+        "label": "Logo Design",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Design a new logo for my brand or product.",
+        "category": "Graphic Design",
+        "icon": "icon-pen-tool-02",
+        "keywords": "",
+        "questions": [1, 22, 4, 5, 21, 3, 6, 10, 11]
+    },
+    {
+        "label": "Brand Guidelines",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Power Point,Google Slides",
+        "description": "Create new brand guidelines for my product or company.",
+        "category": "Graphic Design",
+        "icon": "icon-brand-guidelines",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12]
+    },
+    {
+        "label": "Flyer & Brochure Design",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Create a creative flyer or brochure design for my product, service, or event.",
+        "category": "Graphic Design",
+        "icon": "icon-flyer-brochure",
+        "keywords": "",
+        "questions": [1, 22, 4, 23, 5, 24, 25, 3, 6, 10, 11]
+    },
+    {
+        "label": "Book Cover Design",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Design a cover for my paperback book or ebook that gets attention.",
+        "category": "Graphic Design",
+        "icon": "icon-book-cover",
+        "keywords": "",
+        "questions": [1, 2, 3, 24, 25, 26, 23, 7, 4, 27, 12]
+    },
+    {
+        "label": "Social Media Posts",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Design eye-catching social media posts for every platform and format.",
+        "category": "Graphic Design",
+        "icon": "icon-message-heart-square",
+        "keywords": "",
+        "questions": [1, 2, 3, 28, 29, 30, 32, 25, 31, 4, 12]
+    },
+    {
+        "label": "Social Media Ads",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Create a scroll-stopping ad image for multiple social media platforms.",
+        "category": "Graphic Design",
+        "icon": "icon-image-04",
+        "keywords": "",
+        "questions": [1, 2, 3, 28, 29, 30, 32, 33, 25, 31, 4, 12]
+    },
+    {
+        "label": "Banner Ads",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Design attention-grabbing banner ads to promote my products or services.",
+        "category": "Graphic Design",
+        "icon": "icon-image-04",
+        "keywords": "",
+        "questions": [1, 2, 3, 28, 29, 30, 32, 33, 25, 31, 4, 12]
+    },
+    {
+        "label": "Landing Page Graphic",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Create professional-looking graphics for my landing page or website that is customized for my brand.",
+        "category": "Graphic Design",
+        "icon": "icon-image-04",
+        "keywords": "",
+        "questions": [1, 2, 3, 29, 32, 5, 34, 7, 12]
+    },
+    {
+        "label": "Motion Graphic",
+        "turn_around_days": "1-2 Days",
+        "platforms": "After Effects",
+        "description": "Create an animated graphic for my landing page or website to increase engagement.",
+        "category": "Graphic Design",
+        "icon": "icon-motion-graphic",
+        "keywords": "",
+        "questions": [1, 2, 3, 29, 32, 5, 7, 12]
+    },
+    {
+        "label": "Packaging Design",
+        "turn_around_days": "2 Days",
+        "platforms": "Canva,Figma,Adobe XD,Photoshop,Illustrator,InDesign",
+        "description": "Design a professional package design for my physical product.",
+        "category": "Graphic Design",
+        "icon": "icon-packaging-design",
+        "keywords": "",
+        "questions": [1, 2, 3, 29, 30, 32, 12]
+    },
+    {
+        "label": "Email Newsletter Template",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Figma,Adobe XD",
+        "description": "Design a beautiful email template for newsletters or transactional emails.",
+        "category": "Graphic Design",
+        "icon": "icon-mail-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 8, 29, 32, 5, 25, 7, 12]
+    },
+    {
+        "label": "Homepage Development",
+        "turn_around_days": "1-4 Days",
+        "platforms": "Elementor,Webflow,Shopify,Hubspot",
+        "description": "Set up my new site and develop the homepage based on a predefined design concept or template.",
+        "category": "Development",
+        "icon": "icon-terminal-browser",
+        "keywords": "",
+        "questions": [1, 2, 8, 35, 36, 16, 10, 11]
+    },
+    {
+        "label": "Internal Web Development",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Elementor,Webflow,Shopify,Hubspot",
+        "description": "Develop an additional page on my website based on a predefined design concept or template.",
+        "category": "Development",
+        "icon": "icon-terminal-browser",
+        "keywords": "",
+        "questions": [1, 2, 8, 35, 9, 36, 38, 39, 12]
+    },
+    {
+        "label": "Landing Page Development",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Elementor,Webflow,Shopify,Hubspot,Unbounce,Clickfunnels,Swipe Pages,Instapage",
+        "description": "Build a landing page based on a design concept or template that is optimized for performance.",
+        "category": "Development",
+        "icon": "icon-terminal-browser",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 36, 16, 37, 38, 39, 12]
+    },
+    {
+        "label": "Email Template Development",
+        "turn_around_days": "1-2 Days",
+        "platforms": "HTML",
+        "description": "Develop an email template based on a design concept that can be used in my email marketing software.",
+        "category": "Development",
+        "icon": "icon-mail-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 36, 16, 37, 12]
+    },
+    {
+        "label": "Fixing Website Bugs",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress,Webflow,Shopify,Hubspot",
+        "description": "Improve the user experience of my website by fixing errors or bugs on my website.",
+        "category": "Maintenance",
+        "icon": "icon-tool-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 40, 3]
+    },
+    {
+        "label": "Plugin Updates",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Update all my Wordpress Plugins in a safe way so that my site doesn't break.",
+        "category": "Maintenance",
+        "icon": "icon-upload-04",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 41, 12]
+    },
+    {
+        "label": "Security Features Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress",
+        "description": "Protect my website from getting hacked by implementing necessary security features.",
+        "category": "Maintenance",
+        "icon": "icon-passcode-lock",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Implementing Website with 3rd Party Tool",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress,Webflow,Shopify,Hubspot",
+        "description": "Integrate an external tool with my website and make it look on- brand.",
+        "category": "Maintenance",
+        "icon": "icon-dataflow-03",
+        "keywords": "",
+        "questions": [1, 2, 8, 39, 42, 9, 3]
+    },
+    {
+        "label": "Website Content Update",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress",
+        "description": "Update the content on my website to improve the user experience and/or search rankings.",
+        "category": "Maintenance",
+        "icon": "icon-image-indent-left",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 16, 37, 12]
+    },
+    {
+        "label": "Adding New Blog Post",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Elementor,Webflow,Shopify,Hubspot",
+        "description": "Add a new blog post to my company blog with suitable graphics and a catchy featured image.",
+        "category": "Maintenance",
+        "icon": "icon-image-indent-left",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 16, 37, 12]
+    },
+    {
+        "label": "Site Speed Optimization",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Improve the loading time of my website to improve conversions and search rankings.",
+        "category": "Maintenance",
+        "icon": "icon-speedometer-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 43, 9, 3]
+    },
+    {
+        "label": "Site Backup",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Secure my website with a backup of the current site or install a plugin that does it automatically in the future.",
+        "category": "Maintenance",
+        "icon": "icon-download-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Broken Links and 404 Errors Check",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Check my website for any broken links and errors that we need to fix to improve the user experience and search rankings.",
+        "category": "Maintenance",
+        "icon": "icon-link-broken-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Google Analytics Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Analytics",
+        "description": "Install the Google Analytics pixel on my website so we can track our site visitors and conversions.",
+        "category": "Maintenance",
+        "icon": "icon-link-broken-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Google Search Console Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Search Console",
+        "description": "Install the Google Search Console pixel on my website, so I can index my pages and increase search rankings.",
+        "category": "Maintenance",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Google Tag Manager Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Tag Manager",
+        "description": "Install the GTM pixel on my website to speed up the integration of third-party tools in the future.",
+        "category": "Maintenance",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Funnel Analytics Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Hotjar,Mouseflow,Smartlook",
+        "description": "Set up my funnel and website analytics tool to track user behavior and conversions.",
+        "category": "Maintenance",
+        "icon": "icon-filter-funnel-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 44, 10]
+    },
+    {
+        "label": "Facebook Pixel Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Meta,Google Tag Manager",
+        "description": "Install the Facebook pixel on my website and landing pages to track ad performance and conversions.",
+        "category": "Maintenance",
+        "icon": "icon-social-facebook",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 44, 10]
+    },
+    {
+        "label": "Payment Integration",
+        "turn_around_days": "1 Day",
+        "platforms": "Stripe,Paypal,RechargePayments",
+        "description": "Integrate my checkout page with my preferred payment provider.",
+        "category": "Maintenance",
+        "icon": "icon-credit-card-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Cookie Consent Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Usercentrics,Iubenda",
+        "description": "Set up the cookie consent tool to stay compliant with my website worldwide.",
+        "category": "Maintenance",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Title tag & Meta Description Update",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress,Webflow,Shopify,Others",
+        "description": "Add or update my website''s title tag and meta description of one or multiple pages.",
+        "category": "SEO",
+        "icon": "icon-code-snippet-02",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10, 45]
+    },
+    {
+        "label": "Image Alt tag Update",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Wordpress,Webflow,Shopify,Others",
+        "description": "Add or update image alt tags on my website so that search engines rank my site higher.",
+        "category": "SEO",
+        "icon": "icon-image-03",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10, 45]
+    },
+    {
+        "label": "Fixing Hosting Issues",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Fix my hosting issues and ensure that my website is online and secure.",
+        "category": "Hosting",
+        "icon": "icon-server-01",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Site Migration",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Migrate my new website to my server or hosting account.",
+        "category": "Hosting",
+        "icon": "icon-arrows-right",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "DNS Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Wordpress",
+        "description": "Set up my DNS and update my MX server settings when moving my site to another hosting provider.",
+        "category": "Hosting",
+        "icon": "icon-server-05",
+        "keywords": "",
+        "questions": [1, 2, 8, 9, 3, 10]
+    },
+    {
+        "label": "Workflow Setup Between Apps",
+        "turn_around_days": "1 Day",
+        "platforms": "Zapier,Make,Parabola,Phantombuster",
+        "description": "Set up a workflow between my apps to boost our productivity by eliminating recurring tasks.",
+        "category": "Automation",
+        "icon": "icon-workflow-setup",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Email Marketing Campaign Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Active Campaign,Klaviyo,Mailchimp,Keap,Hubspot",
+        "description": "Set up a new broadcast campaign or drip sequence within my email marketing software.",
+        "category": "Automation",
+        "icon": "icon-mail-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Email Outreach Sequence Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Mailshake,Lemlist,Reply.io",
+        "description": "Set up a new email outreach sequence within my sales automation software.",
+        "category": "Automation",
+        "icon": "icon-mail-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Chatbot Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Manychat,Landbot,ChatFuel",
+        "description": "Create chatbot automation to engage my website visitors and turn them into customers.",
+        "category": "Automation",
+        "icon": "icon-message-chat-square",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Data Enrichment Workflow Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Clay.run,Clearbit",
+        "description": "Create a workflow to build lead lists with information from multiple sources.",
+        "category": "Automation",
+        "icon": "icon-data-enrichment",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Automated Image Creation Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Bannerbear,Abyssale",
+        "description": "Create a workflow to build lead lists with information from multiple sources.",
+        "category": "Automation",
+        "icon": "icon-image-03",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Membership Site Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Memberful,Memberspace,Memberstack",
+        "description": "Set up a membership feature on my website for gated content that is only visible for logged-in users.",
+        "category": "No-Code",
+        "icon": "icon-users-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Online Course Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Teachable,Kajabi,Podia",
+        "description": "Set up my online course and add the provided learning material.",
+        "category": "No-Code",
+        "icon": "icon-online-course",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Community Tool Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Circle.so,Skool,Buddy Boss,Mighty Networks",
+        "description": "Set up my online community including the design of the login area, checkout, and content sections.",
+        "category": "No-Code",
+        "icon": "icon-users-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Webinar Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Kajabi,Podia,Livestorm",
+        "description": "Set up the landing page and email marketing campaign for my next webinar.",
+        "category": "No-Code",
+        "icon": "icon-video-recorder",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Glide App Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Glide",
+        "description": "Build a Glide up based on our Google Sheets data set for my team or clients.",
+        "category": "No-Code",
+        "icon": "icon-code-square-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Opt-In Popup Design & Setup",
+        "turn_around_days": "1-2 Days",
+        "platforms": "Optin Monster,Sumo,Sleeknote,Convertflow",
+        "description": "Design and set up a popup feature on my website and connect it with my email marketing software.",
+        "category": "Conversion Optimization",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Gamification Popup Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Justuno,Privy",
+        "description": "Add a gamification popup to my website to increase engagement and generate leads.",
+        "category": "Conversion Optimization",
+        "icon": "icon-gaming-pad-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Website/Funnel Quiz Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Involve.me,Bucket.io,Perspective,Typeform,Convertflow,Outgrow",
+        "description": "Set up a quiz funnel for my website or advertising campaigns to create more qualified buyers.",
+        "category": "Conversion Optimization",
+        "icon": "icon-filter-funnel-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Website Personalization Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Active Campaign,If-so,Hyperise",
+        "description": "Set up a personalization feature on my website to show dynamic content to multiple audiences based on their IP address.",
+        "category": "Conversion Optimization",
+        "icon": "icon-monitor-03",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Optimize Add to Cart Page",
+        "turn_around_days": "1 Day",
+        "platforms": "Cartpops,Vanga.ai",
+        "description": "Add a coupon code and upsell section to my Add-to Cart page to increase conversions.",
+        "category": "Conversion Optimization",
+        "icon": "icon-shopping-cart-03",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "A/B Test Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Optimize,AB Testing.ai,Hypertune.ai",
+        "description": "Set up an A/B test for my landing page to test multiple copy and design variations and increase my conversion rate.",
+        "category": "Conversion Optimization",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Social Proof Tool Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Useproof,Fomo.com,Yotpo",
+        "description": "Add a FOMO feature to my website to show site visitors that other people are buying from us.",
+        "category": "Conversion Optimization",
+        "icon": "icon-message-smile-square",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Website Calculator Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Involve.me,Outgrow,Calconic",
+        "description": "Build and integrate a calculator on my website to help our customers make informed buying decisions.",
+        "category": "Conversion Optimization",
+        "icon": "icon-calculator",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Referral & Reward Program Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Viral Loops,TryBeans,Smile.io",
+        "description": "Set up a referral program for my product, service, or newsletter to attract more customers.",
+        "category": "Conversion Optimization",
+        "icon": "icon-users-plus",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Automated Image/Video Personalization Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Hyperise",
+        "description": "Personalize my email outreach campaign with dynamic images and videos.",
+        "category": "Conversion Optimization",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Testimonial Campaign Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Testimonial.to,Shoutout.so,Videopeel",
+        "description": "Ask my customers for text or video testimonials and highlight them on my website.",
+        "category": "Conversion Optimization",
+        "icon": "icon-message-smile-square",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "B2B Website Visitor Identification Setup",
+        "turn_around_days": "1 Day",
+        "platforms": "Albacross,Leadfeeder",
+        "description": "Set up a website visitor identification tool so I can reach out to companies who browse my website.",
+        "category": "Conversion Optimization",
+        "icon": "icon-settings-01",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Landing Page Conversion Audit",
+        "turn_around_days": "3 Days",
+        "platforms": "Zoom,Loom",
+        "description": "Conduct an audit of my landing page and give me clear action steps on how to improve my conversion rate.",
+        "category": "Advice",
+        "icon": "icon-browser",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Funnel Audit & Strategy",
+        "turn_around_days": "3 Days",
+        "platforms": "Zoom,Loom",
+        "description": "Conduct an audit of my funnel or provide me with tips on how to structure my next funnel.",
+        "category": "Advice",
+        "icon": "icon-filter-funnel-02",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Security Audit",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Docs",
+        "description": "Provide me with a report on potential security issues of my website and how to fix them.",
+        "category": "Advice",
+        "icon": "icon-shield-tick",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Software/Tool Suggestions",
+        "turn_around_days": "1 Day",
+        "platforms": "Google Docs",
+        "description": "Give me suggestions on software or a tool to do X.",
+        "category": "Advice",
+        "icon": "icon-message-check-square",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Workflow/Automation Suggestions",
+        "turn_around_days": "2 Days",
+        "platforms": "Google Docs",
+        "description": "Give me suggestions on automating repetitive tasks with one or multiple apps.",
+        "category": "Advice",
+        "icon": "icon-workflow-setup",
+        "keywords": "",
+        "questions": [1, 2, 3, 4, 8, 9, 10, 11, 12]
+    },
+    {
+        "label": "Quick Request",
+        "turn_around_days": "",
+        "platforms": "",
+        "description": "",
+        "category": "",
+        "icon": "",
+        "keywords": "",
+        "questions": [1, 49, 51, 50]
+    }
+]
